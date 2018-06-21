@@ -18,6 +18,8 @@ to check missing dependencies with depends.sh
 make sure to run depends.sh to save alot of time
 and take a look at the scripts with an editor like nano, mre informatin in scripts
 
+./depends.sh
+
 ## 1: run the wget script to fetch the arch linux iso, edit this file to change iso's
 
 ./wget.sh
