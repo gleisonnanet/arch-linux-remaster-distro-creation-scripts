@@ -1,0 +1,74 @@
+#
+# Author:	Kyd
+# Name	:	Black Ops 3 4core
+# license : 	Distributed under the terms of GNU GPL version 2 or later
+#
+#
+use_xft yes
+xftfont DejaVu Sans:size=8
+xftalpha 0.8
+text_buffer_size 2048
+
+update_interval 1.0
+
+total_run_times 0
+
+own_window yes
+own_window_transparent yes
+own_window_hints undecorated,below,sticky,skip_taskbar
+
+double_buffer yes
+
+minimum_size 100
+maximum_width 250
+
+draw_shades yes
+
+draw_outline no
+
+draw_borders no
+
+stippled_borders 0
+default_color grey
+color1 FF4500
+color2 BD1810
+default_shade_color black
+default_outline_color grey
+own_window_colour white
+
+alignment top_right
+
+gap_x 10
+gap_y 20
+
+no_buffers yes
+
+uppercase no
+
+cpu_avg_samples 2
+
+net_avg_samples 2
+
+#override_utf8_locale yes
+
+use_spacer none
+
+TEXT
+${color red}${font DejaVu Sans:size=14}${hr 1}
+${color red}${execi 1000 cat /proc/cpuinfo | grep 'model name' | sed -e 's/model name.*: //'| uniq | cut -c 1-39}
+${color cyan}Running @${alignr}${freq cpu} MHz
+${color red}Core 1   ${alignr}${cpu cpu1}% 
+${color cyan}${cpugraph cpu0}
+${color red}Core 2   ${alignr}${cpu cpu2}%
+${color cyan}${cpugraph cpu1}
+${color red}Core 3   ${alignr}${cpu cpu3}%
+${color cyan}${cpugraph cpu2}
+${color red}Core 4   ${alignr}${cpu cpu4}%
+${color cyan}${cpugraph cpu3}
+${color red}${hr 1}
+${color cyan}SWAP: ${alignr}$swap  /  ${alignr}$swapmax
+${color cyan}RAM:  ${alignr}$mem  /  ${alignr}$memmax
+${color cyan}Root:     ${alignr}${fs_used /}  / ${alignr}${fs_size /}
+${color red}${hr 1}
+${color red}${font DejaVu Sans:size=12}${time %I:%M%p}${alignr}${time %A, %D}${font}
+

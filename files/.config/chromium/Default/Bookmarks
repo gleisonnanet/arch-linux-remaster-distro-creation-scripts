@@ -1,0 +1,337 @@
+{
+   "checksum": "4ebf56bc7339b9904f4ba4c2473db35a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13173950039621168",
+         "date_modified": "0",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13173950039621178",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "1",
+      "synced": {
+         "children": [ {
+            "date_added": "13107909219835114",
+            "id": "5",
+            "meta_info": {
+               "last_visited": "13148587861178156"
+            },
+            "name": "Android Icon Generator - Home",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.androidicongenerator.net/"
+         }, {
+            "date_added": "13130981823086635",
+            "id": "6",
+            "meta_info": {
+               "last_visited": "13172998481255953"
+            },
+            "name": "Pick Parts, Build Your PC, Compare and Share - PCPartPicker",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://pcpartpicker.com/"
+         }, {
+            "date_added": "13136528919238600",
+            "id": "7",
+            "name": "1.1. How to Build an LFS System",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.linuxfromscratch.org/lfs/view/systemd/chapter01/how.html"
+         }, {
+            "date_added": "13140935077011888",
+            "id": "8",
+            "name": "TransSingle - FTM and MTF Transgender Dating Site for people lookin...",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.transsingle.com/"
+         }, {
+            "date_added": "13141602619845368",
+            "id": "9",
+            "meta_info": {
+               "last_visited": "13150614355036116"
+            },
+            "name": "BLD - The simplest way to get a custom gaming PC",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.letsbld.com/"
+         }, {
+            "date_added": "13147742435699841",
+            "id": "10",
+            "meta_info": {
+               "last_visited": "13169540172114102"
+            },
+            "name": "Google Code",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://code.google.com/"
+         }, {
+            "date_added": "13148522174984379",
+            "id": "11",
+            "meta_info": {
+               "last_visited": "13149728513566493"
+            },
+            "name": "Android Tabs Example - With Fragments and ViewPager - Truiton",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.truiton.com/2015/06/android-tabs-example-fragments-viewpager/"
+         }, {
+            "date_added": "13149585619371146",
+            "id": "12",
+            "meta_info": {
+               "last_visited": "13149585619383643"
+            },
+            "name": "ActionBar Tabs with Fragments · codepath/android_guides Wiki · GitHub",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/codepath/android_guides/wiki/ActionBar-Tabs-with-Fragments"
+         }, {
+            "date_added": "13150868922793532",
+            "id": "13",
+            "meta_info": {
+               "last_visited": "13152181073606249"
+            },
+            "name": "How to Install Simply Caz Repo Kodi 17 Krypton – Whyingo Kodi Tutorials",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://whyingo.org/how-to-install-simply-caz-repo-kodi-17-krypton/"
+         }, {
+            "date_added": "13151557772465120",
+            "id": "14",
+            "meta_info": {
+               "last_visited": "13151557772466934"
+            },
+            "name": "Implementing Fragment Tabs in Android - AndroidBegin",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.androidbegin.com/tutorial/implementing-fragment-tabs-in-android/"
+         }, {
+            "date_added": "13152148675623628",
+            "id": "15",
+            "meta_info": {
+               "last_visited": "13152669910309282"
+            },
+            "name": "brcmfmac - Debian Wiki",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://wiki.debian.org/brcmfmac"
+         }, {
+            "date_added": "13152158502484654",
+            "id": "16",
+            "meta_info": {
+               "last_visited": "13156020139841907"
+            },
+            "name": "linux-asus-t100ta/brcmfmac43241b4-sdio.txt at master · jfwells/linux-asus-t100ta · GitHub",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/jfwells/linux-asus-t100ta/blob/master/nvram/lib/firmware/brcm/brcmfmac43241b4-sdio.txt"
+         }, {
+            "date_added": "13152158625782527",
+            "id": "17",
+            "meta_info": {
+               "last_visited": "13153097947197980"
+            },
+            "name": "brcmfmac43241b4 - Google Search",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.google.com/search?client=ms-android-metropcs-us&ei=FGXdWaubHYz4jwTc4biADg&q=brcmfmac43241b4&oq=brcmfmac43241b4&gs_l=mobile-gws-serp.3...5102.7344.0.10598.3.3.0.0.0.0.173.339.0j2.2.0....0...1.1.64.mobile-gws-serp..1.0.0....219.0IbX3ocdoHA"
+         }, {
+            "date_added": "13152160721444629",
+            "id": "18",
+            "meta_info": {
+               "last_visited": "13152160733402239"
+            },
+            "name": "SSH :connect to host localhost port 22: Connection refused - Super User",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://superuser.com/questions/977104/ssh-connect-to-host-localhost-port-22-connection-refused"
+         }, {
+            "date_added": "13152164700820258",
+            "id": "19",
+            "meta_info": {
+               "last_visited": "13152173533844993"
+            },
+            "name": "How to install SSH ( secure shell ) service on Kali Linux - LinuxConfig.org",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://linuxconfig.org/how-to-install-ssh-secure-shell-service-on-kali-linux"
+         }, {
+            "date_added": "13152445369312726",
+            "id": "20",
+            "meta_info": {
+               "last_visited": "13153114063007518"
+            },
+            "name": "oneplus one: temporarly failure resolving 'repo.kali.org' · Issue #454 · offensive-security/kali-nethunter · GitHub",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/offensive-security/kali-nethunter/issues/454"
+         }, {
+            "date_added": "13152452514808674",
+            "id": "21",
+            "meta_info": {
+               "last_visited": "13152452514823848"
+            },
+            "name": "AC1200 Wireless Adapters - Gentoo Wiki",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://wiki.gentoo.org/wiki/AC1200_Wireless_Adapters"
+         }, {
+            "date_added": "13152458061596887",
+            "id": "22",
+            "meta_info": {
+               "last_visited": "13158367412105119"
+            },
+            "name": "Ubuntu Forums",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://ubuntuforums.org/showthread.php?t=2276504&page=2"
+         }, {
+            "date_added": "13152505857248223",
+            "id": "23",
+            "meta_info": {
+               "last_visited": "13152505936795939"
+            },
+            "name": "Awake: How to Quit from Caffeine for Good",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://book.caffeineinformer.com/"
+         }, {
+            "date_added": "13152657316255330",
+            "id": "24",
+            "meta_info": {
+               "last_visited": "13152661457149527"
+            },
+            "name": "How to Create an ISO File in Linux: 10 Steps (with Pictures)",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.google.com/amp/s/m.wikihow.com/Create-an-ISO-File-in-Linux%3famp=1"
+         }, {
+            "date_added": "13152675480025388",
+            "id": "25",
+            "meta_info": {
+               "last_visited": "13172915708477628",
+               "last_visited_desktop": "13172541400021405"
+            },
+            "name": "Linux From Scratch",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.linuxfromscratch.org/lfs/view/stable/"
+         }, {
+            "date_added": "13152901249154581",
+            "id": "26",
+            "meta_info": {
+               "last_visited": "13152901249178790"
+            },
+            "name": "Android SQLite Database Tutorial (Select, Insert, Update, Delete)",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.codebind.com/android-tutorials-and-examples/android-sqlite-tutorial-example/"
+         }, {
+            "date_added": "13156694813442978",
+            "id": "27",
+            "meta_info": {
+               "last_visited": "13158533800776716"
+            },
+            "name": "Root HTC Desire 530 Marshmallow Install TWRP - Android Infotech",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.androidinfotech.com/2016/12/root-htc-desire-530-marshmallow-twrp.html"
+         }, {
+            "date_added": "13156719802901095",
+            "id": "28",
+            "meta_info": {
+               "last_visited": "13156719833959503"
+            },
+            "name": "Computer Parts, Laptops, Electronics, HDTVs, Digital Cameras and More! - Newegg.Com",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://m.newegg.com/home/browsewingfull"
+         }, {
+            "date_added": "13158416196729377",
+            "id": "29",
+            "meta_info": {
+               "last_visited": "13158416196762052"
+            },
+            "name": "How to Upgrade Debian 8 Jessie to Debian 9 Stretch",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.rootusers.com/how-to-upgrade-debian-8-jessie-to-debian-9-stretch/"
+         }, {
+            "date_added": "13158416325867875",
+            "id": "30",
+            "meta_info": {
+               "last_visited": "13158416325875955"
+            },
+            "name": "How to Install The Latest Mesa Version On Debian 9 Stretch Linux - LinuxConfig.org",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://linuxconfig.org/how-to-install-the-latest-mesa-version-on-debian-9-stretch-linux"
+         }, {
+            "date_added": "13159319002536778",
+            "id": "31",
+            "meta_info": {
+               "last_visited": "13159319002542482"
+            },
+            "name": "N200 | Cooler Master",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.coolermaster.com/case/mini-tower/n200/"
+         }, {
+            "date_added": "13160896063922529",
+            "id": "32",
+            "meta_info": {
+               "last_visited": "13160896128250604"
+            },
+            "name": "GothicSluts.com Gothic Sluts by Blue Blood",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.gothicsluts.com/"
+         }, {
+            "date_added": "13163744258448257",
+            "id": "33",
+            "meta_info": {
+               "last_visited": "13164271676630606"
+            },
+            "name": "Circular dot crosshair? :: Counter-Strike: Global Offensive General Discussions",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://steamcommunity.com/app/730/discussions/0/35219681544396054/"
+         }, {
+            "date_added": "13164613960562851",
+            "id": "34",
+            "meta_info": {
+               "last_visited_desktop": "13172639617817276"
+            },
+            "name": "Adding an existing project to GitHub using the command line - User Documentation",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/"
+         }, {
+            "date_added": "13164613967640029",
+            "id": "35",
+            "meta_info": {
+               "last_visited": "13165127081836502",
+               "last_visited_desktop": "13165232636130291"
+            },
+            "name": "ChrisSaturn/LinuxFromNoob: source based linux distribution based on LFS, linux from scratch",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://github.com/ChrisSaturn/LinuxFromNoob"
+         } ],
+         "date_added": "13173950039621183",
+         "date_modified": "13164613967640029",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
