@@ -1,7 +1,7 @@
 # arch-linux-remaster-distro-creation-scripts
 
 ## support facebook group for questions and answers
-[a link](https://www.facebook.com/groups/linuxfromsourcecode/)
+[linux from source support group](https://www.facebook.com/groups/linuxfromsourcecode/)
 
 
 description: simple bash scripts to remaster an arch linux based distro for customization or disrro creation.
