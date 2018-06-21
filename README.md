@@ -1,32 +1,43 @@
-# arch-linux-iso-remaster-scripts
+# arch-linux-remaster-distro-creation-scripts
 
-![alt text](h)
+## support facebook group for questions and answers
+[a link](https://www.facebook.com/groups/linuxfromsourcecode/)
 
-description: simple bash scripts to remaster an offiacial arch linux iso
+
+description: simple bash scripts to remaster an arch linux based distro for customization or disrro creation.
 
 simple instructions: these scripts will require root or sudo
+
+## requirments: an arch based distro installed as your main system
+## to check missing dependencies with depends.sh 
+## make sure to run depends.sh to save alot of time
+## and take a look at the scripts with an editor like nano, mre informatin in scripts
 
 ## 1: run the wget script to fetch the arch linux iso, edit this file to change iso's
 
 ./wget.sh
 
-## 2: run the prepare script to mount the arch linux iso to a directory named mnt/ and copy contents to iso/ in project home, and also unsquash file system
+## 2: run the prepare script to mount the arch linux iso to a directory named mnt/ and copy contents to iso/ in project home, and also unsquash file system # change if using different arch based distro
 
 ./prepare.sh
 
 ## 3: run the copyscripts script to copy a bash script named pacman.sh to the root arch linux file system
-
+## copy over all files, configs and custom stuff to the system your creating
 ./copyscripts.sh
 
 ## 4: run the chroot script to chroot into the arch linux file system
-
+## enter main chroot into distro your making
 ./chroot.sh
 
 note: your command prompt will change. it will say chroot
 
 ## 5: run the pacman script that will install xfce4 by default, you can edit this file
-
+## this pacman.sh will be the main command to install pakages either manually by editing or creating a pkglist.txt file
 ./pacman.sh
+
+note: creating pkglist.txt on an arch based distro =  pacman -Qqen > pkglist.txt
+command to install pkglist.txt = pacman -S - < pkglist.txt
+edit pacman.sh accordingly to your wishes
 
 ## exit chroot = CTR_D or type exit
 
@@ -40,9 +51,11 @@ note: make sure your command prompt goes back to normal, if it does not press CT
 
 ## 8: running the generate iso script, this will create the new arch linux iso
 
+note : the bigger the new system, the longer this will take and uses alot of cpu power.
+
 ./generate-iso.sh
 
-## 9: creating a bootable usb or cd of the new anarchy-2.0.0-x86_64.iso version 2.
+## 9: creating a bootable usb or cd of the new arch linux distro.
 
 note: if your reading this i may not have to explain how to create a bootable linux medium but i will anyway
 
@@ -52,13 +65,11 @@ replace of=/dev/sdx with the identifed usb device, replace the /dev/sdx with the
 
 lsblk
 
-dd if=anarchy-2.0.0-x86_64.iso of=/dev/sdx status=progress
+dd if=arch-remaster-x86_64.iso of=/dev/sdx status=progress
 
 ## you you dont feel confident to do it from the command line you can always use any famous graphical programs to create a bootable us or cd
 
 ### ENJOY
-
-![alt text](h)
 
 ## written by chris saturn
 
