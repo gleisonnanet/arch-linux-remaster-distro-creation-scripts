@@ -3,6 +3,7 @@
 ## facebook group for questions and answers
 [linux from source facebook group](https://www.facebook.com/groups/linuxfromsourcecode/)
 
+![alt text](https://github.com/ChrisSaturn/arch-linux-remaster-distro-creation-scripts/screenshotsarch-remaster-distro-creation.png)
 
 description: simple bash scripts to remaster an arch linux based distro for customization or disrro creation.
 
