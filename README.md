@@ -5,16 +5,18 @@
 
 ![alt text](https://github.com/ChrisSaturn/arch-linux-remaster-distro-creation-scripts/blob/master/screenshots/arch-remaster-distro-creation.png)
 
-## description: simple bash scripts to remaster an arch linux based distro for customization or disrro creation.
 ## note:: support for UEFI is broken, only legacy boot untill this sentence is updated
-## and also the default configuration of these scritps will be for the creation of anarkhos linux, my personal arch based distro.
-## you can use everything as an example.
+
+description: simple bash scripts to remaster an arch linux based distro for customization or disrro creation.
+and also the default configuration of these scritps will be for the creation of anarkhos linux, my personal arch based distro.
+you can use everything as an example.
+
 ## simple instructions: these scripts will require root or sudo
 
 ## requirments: an arch based distro installed as your main system
-## to check missing dependencies with depends.sh 
-## make sure to run depends.sh to save alot of time
-## and take a look at the scripts with an editor like nano, mre informatin in scripts
+to check missing dependencies with depends.sh 
+make sure to run depends.sh to save alot of time
+and take a look at the scripts with an editor like nano, mre informatin in scripts
 
 ## 1: run the wget script to fetch the arch linux iso, edit this file to change iso's
 
